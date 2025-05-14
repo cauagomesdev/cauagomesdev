@@ -1,6 +1,8 @@
-# 👨🏼 Cauã Aguiar
+#  Cauã Aguiar
 **`Developer`**
 
+
+## 👨🏼 Sobre mim
 Me chamo Cauã Aguiar, tenho 19 anos anos e moro em Brasilia. Atualmente estou cursando ciência da computação na Universidade Católica de Brasilia(UCB). Gosto muito de desenvolver, procuro sempre aprender as diversas áreas nesse ramo da programação. Sou uma pessoa esforçada e que está sempre buscando constante evolução. Também gosto muito de jogos e de esportes em geral.
 
 <p align="center">
@@ -108,7 +110,6 @@ Me chamo Cauã Aguiar, tenho 19 anos anos e moro em Brasilia. Atualmente estou c
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />        
-<br/>
 <br/>
 
 ### 📊 Estatísticas
