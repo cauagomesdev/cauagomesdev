@@ -3,7 +3,7 @@
 
 
 ## 👨🏼 Sobre mim
-Me chamo Cauã Aguiar, tenho 19 anos anos e moro em Brasilia. Atualmente estou cursando ciência da computação na Universidade Católica de Brasilia(UCB). Gosto muito de desenvolver, procuro sempre aprender as diversas áreas nesse ramo da programação. Sou uma pessoa esforçada e que está sempre buscando constante evolução. Também gosto muito de jogos e de esportes em geral.
+Me chamo Cauã Aguiar, tenho 20 anos anos e moro em Brasilia. Atualmente estou cursando ciência da computação na Universidade Católica de Brasilia(UCB). Gosto muito de desenvolver, procuro sempre aprender as diversas áreas nesse ramo da programação. Sou uma pessoa esforçada e que está sempre buscando constante evolução. Também gosto muito de jogos e de esportes em geral.
 
 <p align="center">
     <a href="https://www.linkedin.com/in/cauã-aguiar-1633952b9/">
