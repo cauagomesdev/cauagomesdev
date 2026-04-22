@@ -1,132 +1,132 @@
-#  Cauã Aguiar
-**`Developer`**
+# 👋 Olá, eu sou o Cauã Aguiar
 
+<img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=25&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Estudante+de+Ciência+da+Computação;Sempre+em+busca+de+evolução" />
 
-## 👨🏼 Sobre mim
-Me chamo Cauã Aguiar, tenho 20 anos anos e moro em Brasilia. Atualmente estou cursando ciência da computação na Universidade Católica de Brasilia(UCB). Gosto muito de desenvolver, procuro sempre aprender as diversas áreas nesse ramo da programação. Sou uma pessoa esforçada e que está sempre buscando constante evolução. Também gosto muito de jogos e de esportes em geral.
+---
+
+## 👨‍💻 Sobre mim
+
+Sou estudante de Ciência da Computação na Universidade Católica de Brasília (UCB) e tenho grande interesse no desenvolvimento de software.
+
+Tenho experiência com desenvolvimento **full stack**, criação de APIs, automações e aplicações completas. Gosto de explorar novas tecnologias e estou sempre buscando evoluir, tanto tecnicamente quanto profissionalmente.
+
+Atualmente busco oportunidades para aplicar meus conhecimentos em projetos reais e crescer na área de tecnologia.
+
+---
+
+## 🌐 Contato
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/cauã-aguiar-1633952b9/">
-        <img 
-            width="35px" alt="LinkedIn" title="Meu LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"
-        />
+    <a href="https://www.linkedin.com/in/cauã-aguiar-1633952b9/" target="_blank">
+        <img width="35px" src="https://i.imgur.com/yRpa1dQ.png"/>
     </a>
-                &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href = https://mail.google.com/mail/u/1/#inbox>
-        <img
-            width="50px" height="35px"
-            alt="email" title="Meu E-mail" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"
-        />
-    </a>
-
-</p>
-<p align="center">
-    <a href="https://github.com/cauagomesdev?tab=repositories&sort=stargazers">
-        <img 
-            alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/cauagomesdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas&logoColor=white"
-        />
-    </a>
-                &#8287;&#8287;
-    <a href="https://github.com/cauagomesdev?tab=followers">
-        <img 
-            alt="followers" title="Me siga no Github"    src="https://custom-icon-badges.demolab.com/github/followers/cauagomesdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=seguidores&logoColor=white"
-        />
+    &#8287;&#8287;&#8287;
+    <a href="mailto:cauaaguiarti@gmail.com">
+        <img height="30" src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Swift" 
-    title="Swift"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
-/> 
-<img
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
-/>        
-<br/>
+<p align="left">
 
-### 📊 Estatísticas
+<img align="left" alt="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="Next.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="Tailwind" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+<img align="left" alt="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+
+<img align="left" alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="Express" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Django" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+
+<img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
+<img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="Swift" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
+
+<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+
+</p>
+
+<br/><br/><br/><br/><br/>
+
+---
+
+## 📌 Projetos em destaque
+
+### 🔹 Sistema de classificação de e-mails com IA
+
+* Classificação automática de e-mails por categoria
+* Identificação de reuniões e agendamento automático
+* Integração com automações
+
+**Tecnologias:** Python, Django, React, n8n
+
+---
+
+### 🔹 HeartCare (Sistema de agendamento)
+
+* Sistema completo de agendamento de consultas
+* CRUD completo com integração ao banco de dados
+* Estrutura full stack
+
+**Tecnologias:** Node.js, Express, PostgreSQL
+
+---
+
+### 🔹 Banco Malvader
+
+* Sistema bancário completo
+* Funcionalidades de conta, transações e empréstimos
+
+**Tecnologias:** Java, MySQL
+
+---
+
+## 📊 Estatísticas GitHub
+
 <p>
 <img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=cauagomesdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    />
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=cauagomesdev&show_icons=true&theme=tokyonight&include_all_commits=true"
+/>
 
 <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauagomesdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
-    />
+ align="left" 
+ height="180" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauagomesdev&theme=tokyonight&layout=compact"
+/>
+
 </p>
+
+<br/><br/><br/><br/><br/>
+
+---
+
+## 🔥 Streak de Contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cauagomesdev&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Busco oportunidades de estágio na área de desenvolvimento, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções reais.
+
+---
+
+## 📌 Status
+
+🚀 Em constante evolução como desenvolvedor
