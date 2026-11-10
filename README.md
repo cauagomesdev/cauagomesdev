@@ -82,16 +82,6 @@ Atualmente sou **estagiário de Desenvolvimento de Sistemas no Ministério Públ
 
 ---
 
-### 🔹 Sistema de classificação de e-mails com IA
-
-* Classificação automática de e-mails por categoria
-* Identificação de reuniões e agendamento automático
-* Integração com automações
-
-**Tecnologias:** Python, Django, React, n8n
-
----
-
 ### 🔹 HeartCare (Sistema de agendamento)
 
 * Sistema completo de agendamento de consultas
@@ -101,15 +91,6 @@ Atualmente sou **estagiário de Desenvolvimento de Sistemas no Ministério Públ
 **Tecnologias:** Node.js, Express, PostgreSQL
 
 🔗 [Repositório](https://github.com/cauagomesdev/HeartCare)
-
----
-
-### 🔹 Banco Malvader
-
-* Sistema bancário completo
-* Funcionalidades de conta, transações e empréstimos
-
-**Tecnologias:** Java, MySQL
 
 ---
 
