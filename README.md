@@ -8,9 +8,9 @@
 
 Sou estudante de Ciência da Computação na Universidade Católica de Brasília (UCB) e tenho grande interesse no desenvolvimento de software.
 
-Tenho experiência com desenvolvimento **full stack**, criação de APIs, automações e aplicações completas. Gosto de explorar novas tecnologias e estou sempre buscando evoluir, tanto tecnicamente quanto profissionalmente.
+Tenho experiência com desenvolvimento **full stack**, criação de APIs, automações, integração de IA generativa e aplicações completas. Já atuei também como **Scrum Master** liderando times de back-end e front-end. Gosto de explorar novas tecnologias e estou sempre buscando evoluir, tanto tecnicamente quanto profissionalmente.
 
-Atualmente busco oportunidades para aplicar meus conhecimentos em projetos reais e crescer na área de tecnologia.
+Atualmente sou **estagiário de Desenvolvimento de Sistemas no Ministério Público Militar (MPM/PGJM)**, e busco novas oportunidades para aplicar meus conhecimentos em projetos reais e crescer na área de tecnologia.
 
 ---
 
@@ -44,14 +44,19 @@ Atualmente busco oportunidades para aplicar meus conhecimentos em projetos reais
 <img align="left" alt="Express" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 <img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Django" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+<img align="left" alt="FastAPI" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+<img align="left" alt="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="left" alt=".NET" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
 
 <img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="SQL Server" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
 
 <img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="Swift" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 
+<img align="left" alt="Docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 
@@ -62,6 +67,20 @@ Atualmente busco oportunidades para aplicar meus conhecimentos em projetos reais
 ---
 
 ## 📌 Projetos em destaque
+
+### 🔹 BBTS — Sistema de Gestão de Vagas com IA
+
+* Projeto full stack onde atuei como **Scrum Master e líder técnico** do back-end e front-end (mar–jul 2026)
+* API REST com autenticação JWT, controle de acesso por perfil e migrações versionadas com Alembic
+* Motor de ranking de candidatos com pontuação ponderada e penalidades por requisito ausente
+* Integração com IA generativa (Groq — LLaMA 3.3 70B) para extração automática de dados de currículos em PDF
+* Conformidade com a LGPD: anonimização de dados pessoais e log de auditoria
+
+**Tecnologias:** Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, Groq API (LLM), React, TypeScript
+
+🔗 [Backend](https://github.com/cauagomesdev/bbts-vacancy-management-backend) · [Frontend](https://github.com/FMello-Dev/bbts-vacancy-management-frontend)
+
+---
 
 ### 🔹 Sistema de classificação de e-mails com IA
 
@@ -80,6 +99,8 @@ Atualmente busco oportunidades para aplicar meus conhecimentos em projetos reais
 * Estrutura full stack
 
 **Tecnologias:** Node.js, Express, PostgreSQL
+
+🔗 [Repositório](https://github.com/cauagomesdev/HeartCare)
 
 ---
 
@@ -123,7 +144,7 @@ Atualmente busco oportunidades para aplicar meus conhecimentos em projetos reais
 
 ## 🎯 Objetivo
 
-Busco oportunidades de estágio na área de desenvolvimento, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções reais.
+Busco novas oportunidades de estágio na área de desenvolvimento, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções reais.
 
 ---
 
